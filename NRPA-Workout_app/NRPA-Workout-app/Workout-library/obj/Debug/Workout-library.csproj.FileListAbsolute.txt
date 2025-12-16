@@ -1,0 +1,6 @@
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\bin\Debug\Workout-library.dll
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\bin\Debug\Workout-library.pdb
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\obj\Debug\Workout-library.csproj.AssemblyReference.cache
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\obj\Debug\Workout-library.csproj.CoreCompileInputs.cache
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\obj\Debug\Workout-library.dll
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Workout-library\obj\Debug\Workout-library.pdb

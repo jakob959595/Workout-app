@@ -1,0 +1,13 @@
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.csproj.AssemblyReference.cache
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.Form1.resources
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.Properties.Resources.resources
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.csproj.GenerateResource.cache
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.csproj.CoreCompileInputs.cache
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\bin\Debug\Glavni_program.exe.config
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\bin\Debug\Glavni_program.exe
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\bin\Debug\Glavni_program.pdb
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\bin\Debug\Workout-library.dll
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\bin\Debug\Workout-library.pdb
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_p.D7A623D8.Up2Date
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.exe
+C:\Users\jakob.zidar.19721\Source\Repos\NRPA-Workout_app\NRPA-Workout-app\Glavni_program\obj\Debug\Glavni_program.pdb
